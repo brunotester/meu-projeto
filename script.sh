@@ -8,3 +8,5 @@ VAR2="NAO"
 [ "$VAR" != "$VAR2" ] && { echo "variaveis não iguais"; exit 0; } 
 
 echo "DO GITHUB"
+
+echo "NOVA FUNCIONALIDADE!!"
